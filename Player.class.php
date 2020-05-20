@@ -11,7 +11,7 @@ class Player
         // TODO
     }
 
-    public function getName()
+    public function getName()g
     {
         // TODO
     }
