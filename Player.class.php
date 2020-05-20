@@ -8,31 +8,31 @@ class Player
 
     public function __construct($name)
     {
-        // TODO
+        //
     }
 
-    public function getName()g
+    public function getName()
     {
-        // TODO
+        //
     }
 
     public function setScore($value)
     {
-        // TODO
+        //
     }
 
     public function getScore()
     {
-        // TODO
+        //
     }
 
     public function setLastTwoThrows($throws)
     {
-        // TODO
+        //
     }
 
     public function getLastTwoThrows()
     {
-        // TODO
+        //
     }
 }

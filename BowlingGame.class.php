@@ -22,10 +22,5 @@ class BowlingGame
         foreach ($this->players as $player) {
             $this->scoreBoard->addPlayer($player);
         }
-
-        for ($i = 0; $i < 11; $i++) {
-
-        }
-
     }
 }
